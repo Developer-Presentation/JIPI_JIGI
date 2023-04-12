@@ -1,7 +1,7 @@
 # 👊 JS를 알고 나를 알면 질 수 없지.
 
 > 정기적인 오프라인 발표와
-최대 100명의 시청자가 있는 온라인에서의 발표,
+최대 100명의 시청자가 있는 온라인에서의 발표,<br>
 이것을 이겨내면 못할 것이 없습니다.
 > 
 
@@ -56,8 +56,8 @@
 ## 💯 발표
 
 ### 230409
-- **[오가은]** [주제](#)
-- **[김도경]** [주제](#)
+- **[오가은]** [var,let,const](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230409/%EC%98%A4%EA%B0%80%EC%9D%80(var%2Clet%2Cconst)/var%2Clet%2Cconst.pdf)
+- **[김도경]** [재귀](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230409/%EA%B9%80%EB%8F%84%EA%B2%BD(recursive_function)/%EA%B9%80%EB%8F%84%EA%B2%BD_Recursive_function.pdf)
 - …
 - …
 
