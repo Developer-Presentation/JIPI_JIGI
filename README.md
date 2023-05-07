@@ -103,6 +103,22 @@
 - **[정혜민]** [원시값과 객체 비교](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230416/%EC%A0%95%ED%98%9C%EB%AF%BC(%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%EA%B0%9D%EC%B2%B4%EB%B9%84%EA%B5%90)/%ED%96%84%EC%95%BC%ED%98%B8.pptx)
 - **[유하은]** [변수](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230416/%EC%9C%A0%ED%95%98%EC%9D%80(%EB%B3%80%EC%88%98)/%5B%EC%9C%A0%ED%95%98%EC%9D%80%5D%20230416%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C%20%EC%97%85%EB%A1%9C%EB%93%9C.pdf)
 
+### 230423
+- **[오가은]** [TCP/IP](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230423/%EC%98%A4%EA%B0%80%EC%9D%80(TCP-IP)/TCP-IP.pdf)
+- **[김도경]** [Prototype](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230423/%EA%B9%80%EB%8F%84%EA%B2%BD(Prototype)/20230423_Prototype_%EA%B9%80%EB%8F%84%EA%B2%BD.pdf)
+- **[임준혁]** [실행컨텍스트](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230423/%EC%9E%84%EC%A4%80%ED%98%81(%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)/%EC%8B%A4%ED%96%89%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8.pdf)
+
+### 230430
+- **[이양래]** [for 반복문](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230430/%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A2%20(for%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A9%E1%86%A8%E1%84%86%E1%85%AE%E1%86%AB)/for%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A9%E1%86%A8%E1%84%86%E1%85%AE%E1%86%AB.pdf)
+- **[박재영]** [this 교안 풀이](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230430/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A2%E1%84%8B%E1%85%A7%E1%86%BC(this%E1%84%80%E1%85%AD%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%91%E1%85%AE%E1%86%AF%E1%84%8B%E1%85%B5)/230430(this).pdf)
+- **[정혜민]** [Promise](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230430/%EC%A0%95%ED%98%9C%EB%AF%BC(Promise)/%EC%A0%95%ED%98%9C%EB%AF%BC_promise.pdf)
+- **[유하은]** [콜백함수](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230430/%EC%9C%A0%ED%95%98%EC%9D%80(%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98).pdf)
+
+### 230507
+- **[오가은]** []()
+- **[김도경]** []()
+- **[임준혁]** []()
+
 **→ Continue**
 
 <br><br><br>
