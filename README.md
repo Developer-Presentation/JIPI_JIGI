@@ -115,9 +115,21 @@
 - **[유하은]** [콜백함수](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230430/%EC%9C%A0%ED%95%98%EC%9D%80(%EC%BD%9C%EB%B0%B1%ED%95%A8%EC%88%98).pdf)
 
 ### 230507
-- **[오가은]** []()
-- **[김도경]** []()
-- **[임준혁]** []()
+- **[오가은]** [DOM](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230507/%EC%98%A4%EA%B0%80%EC%9D%80(DOM)/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EB%A0%8C%EB%8D%94%EB%A7%81%20%EA%B3%BC%EC%A0%95%EA%B3%BC%20%ED%95%A8%EA%BB%98%20%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94%20DOM.pdf)
+- **[김도경]** [클로저](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230507/%EA%B9%80%EB%8F%84%EA%B2%BD(closure)/0507_%EA%B9%80%EB%8F%84%EA%B2%BD_closure.pdf)
+- **[임준혁]** [리액트순서](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230507/%EC%9E%84%EC%A4%80%ED%98%81(%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%88%9C%EC%84%9C)/%EC%9E%84%EC%A4%80%ED%98%81_%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%88%9C%EC%84%9C.pptx)
+
+### 230514
+- **[이양래]** [Clean Code](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230514/%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A3%E1%86%BC%E1%84%85%E1%85%A2%20(Clean%20Code)/Clean%20Code.pdf)
+- **[유하은]** [함수선언문vs함수표현식](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230514/%EC%9C%A0%ED%95%98%EC%9D%80(%ED%95%A8%EC%88%98%EC%84%A0%EC%96%B8%EB%AC%B8vs%ED%95%A8%EC%88%98%ED%91%9C%ED%98%84%EC%8B%9D)/%5B%EC%9C%A0%ED%95%98%EC%9D%80%5D%20230514%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EC%9E%AC%EC%97%85%EB%A1%9C%EB%93%9C.pdf)
+- **[박재영]** [시맨틱 태그](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230514/%EB%B0%95%EC%9E%AC%EC%98%81(%EC%8B%9C%EB%A7%A8%ED%8B%B1%ED%83%9C%EA%B7%B8)/230514(%E1%84%89%E1%85%B5%E1%84%86%E1%85%A2%E1%86%AB%E1%84%90%E1%85%B5%E1%86%A8%E1%84%90%E1%85%A2%E1%84%80%E1%85%B3).pdf)
+- **[정혜민]** [Ajax](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230514/%EC%A0%95%ED%98%9C%EB%AF%BC(Ajax)/%EC%A0%95%ED%98%9C%EB%AF%BC_Ajax.pdf.pdf)
+
+### 230521
+- **[오가은]** [쿠키, 세션, 캐시]()
+- **[정혜민]** [REST API]()
+- **[임준혁]** [구조분해할당 & Spread, Rest 문법]()
+- **[김도경]** [소프트웨어 개발 방법론]()
 
 **→ Continue**
 
