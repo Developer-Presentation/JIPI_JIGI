@@ -132,7 +132,7 @@
 - **[김도경]** [소프트웨어 개발 방법론]()
 
 ### 이제 면접 스터디가 되버린...
-✏️ [스터디 노션 페이지](https://leeward-act-6a8.notion.site/Developer-Presentation-c3e56258c89a4ad1af6fe24b67646bb4?pvs=4)
+✏️ [스터디 노션 페이지](https://leeward-act-6a8.notion.site/a34d0da9ffbf4991b7b08a82e4c81d78?pvs=4)
 
 <br/>
 
