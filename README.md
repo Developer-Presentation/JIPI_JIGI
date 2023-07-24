@@ -90,7 +90,7 @@
 
 <br>
 
-## 💯 발표
+## 💯 1PHASE :: 발표
 
 ### 230409
 - **[오가은]** [var,let,const](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230409/%EC%98%A4%EA%B0%80%EC%9D%80(var%2Clet%2Cconst)/var%2Clet%2Cconst.pdf)
@@ -126,13 +126,15 @@
 - **[정혜민]** [Ajax](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230514/%EC%A0%95%ED%98%9C%EB%AF%BC(Ajax)/%EC%A0%95%ED%98%9C%EB%AF%BC_Ajax.pdf.pdf)
 
 ### 230521
-- **[오가은]** [쿠키, 세션, 캐시]()
-- **[정혜민]** [REST API]()
-- **[임준혁]** [구조분해할당 & Spread, Rest 문법]()
-- **[김도경]** [소프트웨어 개발 방법론]()
+- **[오가은]** [쿠키, 세션, 캐시](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230521/%EC%98%A4%EA%B0%80%EC%9D%80(%EC%BF%A0%ED%82%A4%2C%EC%84%B8%EC%85%98%2C%EC%BA%90%EC%8B%9C)/Cookie-Session-Cache.pdf)
+- **[정혜민]** [REST API](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230521/%EC%A0%95%ED%98%9C%EB%AF%BC(REST%20API)/REST%20API%20%EC%A0%95%ED%98%9C%EB%AF%BC_pdf.pdf)
+- **[임준혁]** [구조분해할당 & Spread, Rest 문법](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230521/%EC%9E%84%EC%A4%80%ED%98%81(%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%2Cspread%2Crest)/%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4_spread_rest_%EC%88%98%EC%A0%95.pptx)
+- **[김도경]** [소프트웨어 개발 방법론](https://github.com/Developer-Presentation/JIPI_JIGI/blob/main/230521/%EA%B9%80%EB%8F%84%EA%B2%BD(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EA%B0%9C%EB%B0%9C%EB%B0%A9%EB%B2%95%EB%A1%A0)/0521%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%B0%A9%EB%B2%95%EB%A1%A0%EA%B9%80%EB%8F%84%EA%B2%BD.pdf)
 
-### 이제 면접 스터디가 되버린...
-✏️ [스터디 노션 페이지](https://leeward-act-6a8.notion.site/a34d0da9ffbf4991b7b08a82e4c81d78?pvs=4)
+<hr>
+
+### 💯 2PHASE :: 면접 스터디
+✏️ [스터디 노션 페이지](https://charliechar.notion.site/4f01d2a5b60944749a315e9e3537e074?pvs=4)
 
 <br/>
 
